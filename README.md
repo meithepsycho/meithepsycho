@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [SwiftLauncher](https://github.com/meithepsycho/SwiftLauncher)
 
-- 👨‍💻 All of my projects are available at **https://github.com/meithepsycho?tab=repositories**
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/meithepsycho/SwiftLauncher)
 
 - 💬 Ask me about **anything**
 
